@@ -35,6 +35,8 @@ public class AddContactsActivity extends Activity implements View.OnClickListene
                 etNumber = ((EditText) findViewById(R.id.etNumber)).getText().toString();
                 System.out.println("Contacts:"+ etName + etNumber);
 
+
+
                 break;
             case R.id.btnAddCancel:
 
