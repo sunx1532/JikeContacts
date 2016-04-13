@@ -5,6 +5,6 @@
     <string name="tvAddContacts">添加联系人</string>
     <string name="tvName">姓名:</string>
     <string name="tvNumber">电话:</string>
-    <string name="btnAddOK">确定</string>
+    <string name="btnAddOk">确定</string>
     <string name="btnAddCancel">取消</string>
 </resources>

@@ -9,21 +9,18 @@ import android.widget.EditText;
 public class AddContactsActivity extends Activity implements View.OnClickListener {
 
 
-    private String etName;
-    private String etNumber;
-
+    private String etName = "";
+    private String etNumber = "";
+    Button btnAddOk = null;
+    Button btnAddCancel = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_contacts);
 
-        Button btnAddOk = null;
-        Button btnAddCancel = null;
-
         btnAddOk = (Button) findViewById(R.id.btnAddOk);
         btnAddCancel = (Button) findViewById(R.id.btnAddCancel);
-
 
         btnAddOk.setOnClickListener(this);
         btnAddCancel.setOnClickListener(this);
@@ -40,6 +37,7 @@ public class AddContactsActivity extends Activity implements View.OnClickListene
 
                 break;
             case R.id.btnAddCancel:
+
                 break;
         }
     }

@@ -5,6 +5,6 @@
     <string name="tvAddContacts">Add Contact</string>
     <string name="tvName">Name:</string>
     <string name="tvNumber">Number:</string>
-    <string name="btnAddOK">OK</string>
+    <string name="btnAddOk">OK</string>
     <string name="btnAddCancel">Cancel</string>
 </resources>
