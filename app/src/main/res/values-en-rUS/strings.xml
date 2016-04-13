@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JikeContacts</string>
+    <string name="btnAdd">Add</string>
+    <string name="tvAddContacts">Add Contact</string>
+    <string name="tvName">Name:</string>
+    <string name="tvNumber">Number:</string>
+    <string name="btnAddOK">OK</string>
+    <string name="btnAddCancel">Cancel</string>
+</resources>

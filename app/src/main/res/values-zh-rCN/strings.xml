@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">极客通讯录</string>
+    <string name="btnAdd">添加</string>
+    <string name="tvAddContacts">添加联系人</string>
+    <string name="tvName">姓名:</string>
+    <string name="tvNumber">电话:</string>
+    <string name="btnAddOK">确定</string>
+    <string name="btnAddCancel">取消</string>
+</resources>
