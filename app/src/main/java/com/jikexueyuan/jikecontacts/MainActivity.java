@@ -46,7 +46,10 @@ public class MainActivity extends Activity {
         contactsView.setAdapter(adapter);
 
         readContacts();
+
+
     }
+
 
     private void readContacts(){
         Cursor cursor = null;
