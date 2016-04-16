@@ -7,4 +7,13 @@
     <string name="tvNumber">电话:</string>
     <string name="btnAddOk">确定</string>
     <string name="btnAddCancel">取消</string>
+    <string name="detailName">姓名</string>
+    <string name="detailNameShow"/>
+    <string name="detailNumber">号码</string>
+    <string name="detailNumberShow"/>
+    <string name="Saved">联系人已保存</string>
+    <string name="Cancel">取消</string>
+    <string name="menuTitle">请选择</string>
+    <string name="call">打电话</string>
+    <string name="sms">发短信</string>
 </resources>

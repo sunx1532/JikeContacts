@@ -7,4 +7,13 @@
     <string name="tvNumber">Number:</string>
     <string name="btnAddOk">OK</string>
     <string name="btnAddCancel">Cancel</string>
+    <string name="detailName">Name</string>
+    <string name="detailNameShow"/>
+    <string name="detailNumber">Number</string>
+    <string name="detailNumberShow"/>
+    <string name="Saved">Saved</string>
+    <string name="Cancel">Cancel</string>
+    <string name="menuTitle">Please select</string>
+    <string name="call">Make a call</string>
+    <string name="sms">Send a Message</string>
 </resources>
